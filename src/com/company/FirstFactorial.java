@@ -32,6 +32,6 @@ public class FirstFactorial {
 
         }
         System.out.println(reverse);
-        
+
     }
 }
